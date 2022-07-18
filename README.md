@@ -7,11 +7,15 @@ We will therefore use **recursivity** to solve it. Also, the objective is to **o
 
 We have a **schedule** that looks like this: 
 
-![image](https://user-images.githubusercontent.com/105392989/176171755-5e3a58f6-65ef-420b-b557-4e2ecc97125e.png)
+<div id="schedule" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/176171755-5e3a58f6-65ef-420b-b557-4e2ecc97125e.png" width="500">
+</div>
 
 For a given date, the following **10 items must be filed**:
 
-![image](https://user-images.githubusercontent.com/105392989/176171872-8b11f234-48f9-4cc5-844b-8aa5ca608052.png)
+<div id="10 items" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/176171872-8b11f234-48f9-4cc5-844b-8aa5ca608052.png" width="750">
+</div>
 
 However, the only 3 uncovered boxes correspond to the date indicated *(number, day, month)*.   
 Here are some additional **constraints**:
@@ -28,7 +32,9 @@ The solutions we find are indicated in the file **CR_Distribution**. We find the
   - The day
   - The number of solution
   - The execution time to find the solution
-  
-![image](https://user-images.githubusercontent.com/105392989/176172106-372f3892-4ab8-45f4-93f0-ed7c8df5ffe6.png)
+
+<div id="results" align = "center">
+  <img src="https://user-images.githubusercontent.com/105392989/176172106-372f3892-4ab8-45f4-93f0-ed7c8df5ffe6.png" width="750">
+</div>
 
 This project was done in a school context with two other classmates.
